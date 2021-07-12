@@ -1,4 +1,4 @@
-<h2>232. Implement Queue using Stacks</h2><h3>Hard</h3><hr><div><p>Implement a first in first out (FIFO) queue using only two stacks. The implemented queue should support all the functions of a normal queue (<code>push</code>, <code>peek</code>, <code>pop</code>, and <code>empty</code>).
+<h2>232. Implement Queue using Stacks</h2><h3>Easy</h3><hr><div><p>Implement a first in first out (FIFO) queue using only two stacks. The implemented queue should support all the functions of a normal queue (<code>push</code>, <code>peek</code>, <code>pop</code>, and <code>empty</code>).
 
 Implement the <code>MyQueue</code> class:
 
