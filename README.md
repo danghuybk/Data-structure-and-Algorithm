@@ -6,6 +6,7 @@ Codeforces profile: https://codeforces.com/profile/danghuyng<br>
 ## Problems
 |     Title     |   Site  |   Difficulty  |    Solution   |
 |---------------|---------------|---------------|---------------|
+|[205D. Kth Excluded](https://atcoder.jp/contests/abc205/tasks/abc205_d)|AtCoder|400|[kthExcluded.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_205D.%20Kth%20Excluded/kthExcluded.py)|
 |[232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|Leetcode|Easy|[queue.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_232.%20Implement%20Queue%20using%20Stacks/queue.py)|
 |[1593. Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)|Leetcode|Medium|[maxUniqueSplit.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1593.%20Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substrings/maxUniqueSplit.py)|
 |[1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)|Leetcode|Hard|[kthSmallest.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1439.%20Find%20the%20Kth%20Smallest%20Sum%20of%20a%20Matrix%20With%20Sorted%20Rows/kthSmallest.py)|
