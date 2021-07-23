@@ -6,6 +6,8 @@ Codeforces profile: https://codeforces.com/profile/danghuyng<br>
 ## Problems
 |     Title     |   Site  |   Difficulty  |    Solution   |
 |---------------|---------------|---------------|---------------|
+|[1224. Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/)|Leetcode|Hard|[maxEqualFreq.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1224.%20Maximum%20Equal%20Frequency/maxEqualFreq.py)|
+|[1255. Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|Leetcode|Hard|[maxScoreWords.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1255.%20Maximum%20Score%20Words%20Formed%20by%20Letters/maxScoreWords.py)|
 |[205D. Kth Excluded](https://atcoder.jp/contests/abc205/tasks/abc205_d)|AtCoder|400|[kthExcluded.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_205D.%20Kth%20Excluded/kthExcluded.py)|
 |[232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|Leetcode|Easy|[queue.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_232.%20Implement%20Queue%20using%20Stacks/queue.py)|
 |[1593. Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/)|Leetcode|Medium|[maxUniqueSplit.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1593.%20Split%20a%20String%20Into%20the%20Max%20Number%20of%20Unique%20Substrings/maxUniqueSplit.py)|
