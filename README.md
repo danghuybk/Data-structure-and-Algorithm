@@ -6,6 +6,7 @@ Codeforces profile: https://codeforces.com/profile/danghuyng<br>
 ## Problems
 |     Title     |   Site  |   Difficulty  |    Solution   |
 |---------------|---------------|---------------|---------------|
+|[1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)|Leetcode|Medium|[longestArithSeqLength.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1027.%20Longest%20Arithmetic%20Subsequence/longestArithSeqLength.py)|
 |[1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/)|Leetcode|Hard|[canSeePersonsCount.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1944.%20Number%20of%20Visible%20People%20in%20a%20Queue/canSeePersonsCount.py)|
 |[211C. Chokudai](https://atcoder.jp/contests/abc211/tasks/abc211_c)|AtCoder|300|[chokudai.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_211C.%20Chokudai/chokudai.py)|
 |[1224. Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/)|Leetcode|Hard|[maxEqualFreq.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1224.%20Maximum%20Equal%20Frequency/maxEqualFreq.py)|
