@@ -7,6 +7,8 @@ Estimation: Hard Leetcode ~ (1400 - 2000) rating on Codeforces ~ (400+ ) on atco
 ## Problems
 |     Title     |   Site  |   Difficulty  |    Solution   |
 |---------------|---------------|---------------|---------------|
+|[177E. Coprime](https://atcoder.jp/contests/abc177/tasks/abc177_e)|AtCoder|500|[coprime.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_177E.%20Coprime/coprime.py)|
+|[177D. Friends](https://atcoder.jp/contests/abc177/tasks/abc177_d)|AtCoder|400|[friends.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_177D.%20Friends/friends.py)|
 |[176E. Bomber](https://atcoder.jp/contests/abc176/tasks/abc176_e)|AtCoder|500|[bomber.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_176E.%20Bomber/bomber.py)|
 |[176D. Wizard in Maze ](https://atcoder.jp/contests/abc176/tasks/abc176_d)|AtCoder|400|[wizardInMaze.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_176D%20-%20Wizard%20in%20Maze/wizardInMaze.py)|
 |[1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)|Leetcode|Medium|[longestArithSeqLength.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1027.%20Longest%20Arithmetic%20Subsequence/longestArithSeqLength.py)|
