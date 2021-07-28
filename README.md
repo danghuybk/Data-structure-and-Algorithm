@@ -2,6 +2,7 @@
 Leetcode profile: https://leetcode.com/danghuyng/<br>
 Atcoder profile: https://atcoder.jp/users/danghuybk<br>
 Codeforces profile: https://codeforces.com/profile/danghuyng<br>
+Estimation: Hard Leetcode ~ (1400 - 2000) rating on Codeforces ~ (400+ ) on atcoder
 
 ## Problems
 |     Title     |   Site  |   Difficulty  |    Solution   |
