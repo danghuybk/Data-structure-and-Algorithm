@@ -6,6 +6,7 @@ Codeforces profile: https://codeforces.com/profile/danghuyng<br>
 ## Problems
 |     Title     |   Site  |   Difficulty  |    Solution   |
 |---------------|---------------|---------------|---------------|
+|[176D. Wizard in Maze ](https://atcoder.jp/contests/abc176/tasks/abc176_d)|AtCoder|400|[wizardInMaze.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_176D%20-%20Wizard%20in%20Maze/wizardInMaze.py)|
 |[1027. Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)|Leetcode|Medium|[longestArithSeqLength.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1027.%20Longest%20Arithmetic%20Subsequence/longestArithSeqLength.py)|
 |[1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/)|Leetcode|Hard|[canSeePersonsCount.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1944.%20Number%20of%20Visible%20People%20in%20a%20Queue/canSeePersonsCount.py)|
 |[211C. Chokudai](https://atcoder.jp/contests/abc211/tasks/abc211_c)|AtCoder|300|[chokudai.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_211C.%20Chokudai/chokudai.py)|
