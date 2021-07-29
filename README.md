@@ -7,7 +7,7 @@ Estimation: Hard Leetcode ~ (1400 - 2000) rating on Codeforces ~ (400+ ) on atco
 ## Problems
 |     Title     |   Site  |   Difficulty  |    Solution   |
 |---------------|---------------|---------------|---------------|
-
+|[847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)|Leetcode|Hard|[shortestPathLength.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_847.%20Shortest%20Path%20Visiting%20All%20Nodes/shortestPathLength.py)|
 |[218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|Leetcode|Hard|[getSkyline.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_218.%20The%20Skyline%20Problem/getSkyline.py)|
 |[178E. Dist Max](https://atcoder.jp/contests/abc178/tasks/abc178_e)|AtCoder|500|[distMax.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_178E.%20Dist%20Max/distMax.py)|
 |[178D. Redistribution](https://atcoder.jp/contests/abc178/tasks/abc178_d)|AtCoder|400|[redistribution.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_178D.%20Redistribution/redistribution.py)|
