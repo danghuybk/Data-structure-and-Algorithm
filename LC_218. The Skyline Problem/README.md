@@ -1,3 +1,5 @@
+<h2>218. The Skyline Problem</h2><h3>Hard</h3><hr>
+
 <div class="content__u3I1 question-content__JfgR"><div><p>A city's <strong>skyline</strong> is the outer contour of the silhouette formed by all the buildings in that city when viewed from a distance. Given the locations and heights of all the buildings, return <em>the <strong>skyline</strong> formed by these buildings collectively</em>.</p>
 
 <p>The geometric information of each building is given in the array <code>buildings</code> where <code>buildings[i] = [left<sub>i</sub>, right<sub>i</sub>, height<sub>i</sub>]</code>:</p>
