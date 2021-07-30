@@ -7,6 +7,7 @@ Estimation: Hard Leetcode ~ (1400 - 2000) rating on Codeforces ~ (400+ ) on atco
 ## Problems
 |     Title     |   Site  |   Difficulty  |    Solution   |
 |---------------|---------------|---------------|---------------|
+|[943. Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)|Leetcode|Hard|[shortestSuperstring.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_943.%20Find%20the%20Shortest%20Superstring/shortestSuperstring.py)|
 |[1349. Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/)|Leetcode|Hard|[maxStudents.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1349.%20Maximum%20Students%20Taking%20Exam/maxStudents.py)|
 |[1301. Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/)|Leetcode|Hard|[pathsWithMaxScore.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1301.%20Number%20of%20Paths%20with%20Max%20Score/pathsWithMaxScore.py)|
 |[1879. Minimum XOR Sum of Two Arrays](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/)|Leetcode|Hard|[minimumXORSum.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1879.%20Minimum%20XOR%20Sum%20of%20Two%20Arrays/minimumXORSum.py)|
