@@ -7,6 +7,7 @@ Estimation: Hard Leetcode ~ (1400 - 2000) rating on Codeforces ~ (400+ ) on atco
 ## Problems
 |     Title     |   Site  |   Difficulty  |    Solution   |
 |---------------|---------------|---------------|---------------|
+|[1301. Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/)|Leetcode|Hard|[pathsWithMaxScore.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1301.%20Number%20of%20Paths%20with%20Max%20Score/pathsWithMaxScore.py)|
 |[1879. Minimum XOR Sum of Two Arrays](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/)|Leetcode|Hard|[minimumXORSum.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1879.%20Minimum%20XOR%20Sum%20of%20Two%20Arrays/minimumXORSum.py)|
 |[854. K-Similar Strings](https://leetcode.com/problems/k-similar-strings/)|Leetcode|Hard|[kSimilarity.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_854.%20K-Similar%20Strings/kSimilarity.py)|
 |[847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)|Leetcode|Hard|[shortestPathLength.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_847.%20Shortest%20Path%20Visiting%20All%20Nodes/shortestPathLength.py)|
