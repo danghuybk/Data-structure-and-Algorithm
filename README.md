@@ -33,13 +33,15 @@ Estimation: Hard Leetcode ~ (1400 - 2000) rating on Codeforces ~ (400+ ) on atco
 ||||
 ||||
 ||||
+|[212E. Safety Journey](https://atcoder.jp/contests/abc212/tasks/abc212_e)|AtCoder|500|[safetyJourney.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_212E.%20Safety%20Journey/safetyJourney.py)|
 |[178E. Dist Max](https://atcoder.jp/contests/abc178/tasks/abc178_e)|AtCoder|500|[distMax.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_178E.%20Dist%20Max/distMax.py)|
 |[177E. Coprime](https://atcoder.jp/contests/abc177/tasks/abc177_e)|AtCoder|500|[coprime.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_177E.%20Coprime/coprime.py)|
 |[176E. Bomber](https://atcoder.jp/contests/abc176/tasks/abc176_e)|AtCoder|500|[bomber.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_176E.%20Bomber/bomber.py)|
+|[212D. Querying Multiset](https://atcoder.jp/contests/abc212/tasks/abc212_d)|AtCoder|400|[queryMultiset.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_212D.%20Querying%20Multiset/queryMultiset.py)|
+|[205D. Kth Excluded](https://atcoder.jp/contests/abc205/tasks/abc205_d)|AtCoder|400|[kthExcluded.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_205D.%20Kth%20Excluded/kthExcluded.py)|
 |[178D. Redistribution](https://atcoder.jp/contests/abc178/tasks/abc178_d)|AtCoder|400|[redistribution.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_178D.%20Redistribution/redistribution.py)|
 |[177D. Friends](https://atcoder.jp/contests/abc177/tasks/abc177_d)|AtCoder|400|[friends.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_177D.%20Friends/friends.py)|
 |[176D. Wizard in Maze ](https://atcoder.jp/contests/abc176/tasks/abc176_d)|AtCoder|400|[wizardInMaze.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_176D%20-%20Wizard%20in%20Maze/wizardInMaze.py)|
-|[205D. Kth Excluded](https://atcoder.jp/contests/abc205/tasks/abc205_d)|AtCoder|400|[kthExcluded.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_205D.%20Kth%20Excluded/kthExcluded.py)|
 |[211C. Chokudai](https://atcoder.jp/contests/abc211/tasks/abc211_c)|AtCoder|300|[chokudai.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/AC_211C.%20Chokudai/chokudai.py)|
 ||||
 ||||
