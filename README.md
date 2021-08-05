@@ -25,6 +25,7 @@ Estimation: Hard Leetcode ~ (1400 - 2000) rating on Codeforces ~ (400+ ) on atco
 |[321. Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|Leetcode|Hard|[maxNumber.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_321.%20Create%20Maximum%20Number/maxNumber.py)|
 |[301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|Leetcode|Hard|[removeInvalidParentheses.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_301.%20Remove%20Invalid%20Parentheses/removeInvalidParentheses.py)|
 |[218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|Leetcode|Hard|[getSkyline.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_218.%20The%20Skyline%20Problem/getSkyline.py)|
+|[140. Word Break II](https://leetcode.com/problems/word-break-ii)|Leetcode|Hard|[wordBreak.py](https://github.com/danghuybk/Data-structure-and-Algorithm/tree/main/LC_140.%20Word%20Break%20II)|
 |[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Leetcode|Hard|[trap.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_42.%20Trapping%20Rain%20Water/trap.py)|
 ||||
 |[1954. Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/)|Leetcode|Medium|[minimumPerimeter.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1954.%20Minimum%20Garden%20Perimeter%20to%20Collect%20Enough%20Apples/minimumPerimeter.py)|
