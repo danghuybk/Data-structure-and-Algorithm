@@ -38,6 +38,8 @@ Estimation: Hard Leetcode ~ (1400 - 2000) rating on Codeforces ~ (400+ ) on atco
 |[813. Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/)|Leetcode|Medium|[largestSumOfAverages.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_813.%20Largest%20Sum%20of%20Averages/largestSumOfAverages.py)|
 |[113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)|Leetcode|Medium|[pathSum.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_113.%20Path%20Sum%20II/pathSum.py)|
 ||||
+|[401. Binary Watch](https://leetcode.com/problems/binary-watch/)|Leetcode|Easy - Medium)|[readBinaryWatch.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_401.%20Binary%20Watch/readBinaryWatch.py)|
+
 |[232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|Leetcode|Easy|[queue.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_232.%20Implement%20Queue%20using%20Stacks/queue.py)|
 ||||
 ||||
