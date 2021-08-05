@@ -1,4 +1,4 @@
-<h2>140. Word Break II</h2><h3></h3><hr>
+<h2>140. Word Break II</h2><h3>Hard</h3><hr>
 
 <div class="content__u3I1 question-content__JfgR"><div><p>Given a string <code>s</code> and a dictionary of strings <code>wordDict</code>, add spaces in <code>s</code> to construct a sentence where each word is a valid dictionary word. Return all such possible sentences in <strong>any order</strong>.</p>
 
