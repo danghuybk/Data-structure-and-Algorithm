@@ -72,3 +72,7 @@ Estimation: Hard Leetcode ~ (1400 - 2000) rating on Codeforces ~ (400+ ) on atco
 ||||
 |[1535C. Unstable String](https://codeforces.com/problemset/problem/1535/C)|Codeforces|1400|[unstableString.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/CF_1535C.%20Unstable%20String/unstableString.py)
 |[520B. Two buttons](https://codeforces.com/problemset/problem/520/B)|Codeforces|1400|[two_buttons.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/CF_520B.%20Two%20buttons/two_buttons.py)
+||||
+||||
+||||
+|[String Similarity](https://www.hackerrank.com/challenges/string-similarity/problem)|Hackerrank|Hard - 100|[stringSimilarity.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/HR_String%20Similarity/stringSimilarity.py)
