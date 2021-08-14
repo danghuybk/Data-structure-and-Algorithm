@@ -18,6 +18,7 @@ Estimation: Hard Leetcode ~ (1400 - 2000) rating on Codeforces ~ (400+ ) on atco
 |[1278. Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/)|Leetcode|Hard|[palindromePartition.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1278.%20Palindrome%20Partitioning%20III/palindromePartition.py)|
 |[1255. Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)|Leetcode|Hard|[maxScoreWords.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1255.%20Maximum%20Score%20Words%20Formed%20by%20Letters/maxScoreWords.py)|
 |[1224. Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/)|Leetcode|Hard|[maxEqualFreq.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1224.%20Maximum%20Equal%20Frequency/maxEqualFreq.py)|
+|[1147. Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/)|Leetcode|Hard|[longestDecomposition.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1147.%20Longest%20Chunked%20Palindrome%20Decomposition/longestDecomposition.py)|
 |[975. Odd Even Jump](https://leetcode.com/problems/odd-even-jump/)|Leetcode|Hard|[oddEvenJumps.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_975.%20Odd%20Even%20Jump/oddEvenJumps.py)|
 |[956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)|Leetcode|Hard|[tallestBillboard.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_956.%20Tallest%20Billboard/tallestBillboard.py)|
 |[943. Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)|Leetcode|Hard|[shortestSuperstring.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_943.%20Find%20the%20Shortest%20Superstring/shortestSuperstring.py)|
@@ -77,3 +78,4 @@ Estimation: Hard Leetcode ~ (1400 - 2000) rating on Codeforces ~ (400+ ) on atco
 ||||
 ||||
 |[String Similarity](https://www.hackerrank.com/challenges/string-similarity/problem)|Hackerrank|Hard - 100|[stringSimilarity.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/HR_String%20Similarity/stringSimilarity.py)
+|[Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum/problem)|Hackerrank|Hard - 65|[maximumSum.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/HR_Maximum%20Subarray%20Sum/maximumSum.py)
