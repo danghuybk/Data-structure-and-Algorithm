@@ -5,6 +5,7 @@ Estimation: Hard Leetcode ~ (1400 - 2000) rating on Codeforces ~ (400+ ) on atco
 ## Problems
 |     Title     |   Site  |   Difficulty  |    Solution   |
 |---------------|---------------|---------------|---------------|
+|[1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)|Leetcode|Hard|[latestDayToCross.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1970.%20Last%20Day%20Where%20You%20Can%20Still%20Cross/latestDayToCross.py)|
 |[1964. Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)|Leetcode|Hard|[longestObstacleCourseAtEachPosition.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1964.%20Find%20the%20Longest%20Valid%20Obstacle%20Course%20at%20Each%20Position/longestObstacleCourseAtEachPosition.py)|
 |[1955. Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/)|Leetcode|Hard|[countSpecialSubsequences.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1955.%20Count%20Number%20of%20Special%20Subsequences/countSpecialSubsequences.py)|
 |[1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/)|Leetcode|Hard|[canSeePersonsCount.py](https://github.com/danghuybk/Data-structure-and-Algorithm/blob/main/LC_1944.%20Number%20of%20Visible%20People%20in%20a%20Queue/canSeePersonsCount.py)|
